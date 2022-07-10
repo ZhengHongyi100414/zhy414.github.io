@@ -20,6 +20,7 @@ h1{
 	}
 p{
 	word-wrap:break-word;
+	color:#ffffff;
 	}
 ul,ol{
 	text-decoration:none;
@@ -34,7 +35,7 @@ a{
 	-o-transition:all 1s ease; 
 	}
 a:hover{
-	color:#FFF;
+	color:#008800;
 	}
 /*导航部分*/
 header{
